@@ -480,7 +480,6 @@ powershell -ExecutionPolicy Bypass -Command "npm run dev"
 
 - **项目主页**：https://github.com/pointer0520/navigation
 - **问题反馈**：https://github.com/pointer0520/navigation/issues
-- **邮箱**：xzwonroad@163.com
 
 ## 🙏 致谢
 
@@ -497,5 +496,3 @@ powershell -ExecutionPolicy Bypass -Command "npm run dev"
 
 **项目启动日期**：2025-10-28  
 **当前版本**：v1.0.0  
-**开发状态**：🟢 活跃开发  
-**维护者**：[@yourusername](https://github.com/yourusername)

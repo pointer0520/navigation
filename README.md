@@ -1,6 +1,6 @@
 # 🧭 个人导航站系统
 
-一个功能强大、界面美观的个人网站导航管理系统，支持多级分类、智能标签、快速搜索和数据云同步。
+个人网站导航管理系统，支持多级分类、智能标签、快速搜索和数据云同步。
 
 [![Vue](https://img.shields.io/badge/Vue-3.3.4-42b983)](https://vuejs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.2.2-blue)](https://www.typescriptlang.org/)
@@ -478,9 +478,9 @@ powershell -ExecutionPolicy Bypass -Command "npm run dev"
 
 ## 📧 联系方式
 
-- **项目主页**：https://github.com/yourusername/daohang
-- **问题反馈**：https://github.com/yourusername/daohang/issues
-- **邮箱**：your.email@example.com
+- **项目主页**：https://github.com/pointer0520/navigation
+- **问题反馈**：https://github.com/pointer0520/navigation/issues
+- **邮箱**：xzwonroad@163.com
 
 ## 🙏 致谢
 
